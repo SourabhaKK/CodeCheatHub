@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #90B1DB;
+    color: black;
+}
+
+.content{
+    font-family: 'Tilt Prism', cursive;
+    font-weight: bold;
+    
+}
+
+.container{
+
+    width: 85vw;
+    padding: 25px;
+    margin: auto;
+    font-weight: bold;
+    background-color: #dfe9f5;
+}
+
+.logo{
+
+}
+
+.logo img{
+    width: 34px;
+}
+
+.toolbar-item button{
+    cursor: pointer !important;
+    color: white !important;
+    border: 1px solid white !important;
+    border-radius: 15px !important;
+    padding: 5px 14px !important;
+}
